@@ -210,7 +210,8 @@ footer .footer-logo img {
 
 /* Page 3 Tears of the Kingdom CSS */
 .content {
-  max-width: 1920px;
+  max-width: 1440px;
+  margin: 0 auto;
 }
 #page3-hero {
   position: relative;
@@ -236,4 +237,13 @@ footer .footer-logo img {
 
 .info {
   display: flex;
+}
+
+.info img {
+  width: 50%;
+}
+
+.img-content h1 {
+  text-align: center;
+  font-weight: 2.5em;
 }
