@@ -234,7 +234,7 @@ footer .footer-logo img {
 }
 
 .content_img {
-  object-fit: cover;  
+  object-fit: cover;
 }
 
 #page2 h1 {
@@ -248,7 +248,7 @@ footer .footer-logo img {
 }
 #page2 .inner_content {
   display: flex;
-  flex-direction:column;
+  flex-direction: column;
   margin-left: 100px;
 }
 
@@ -281,10 +281,12 @@ footer .footer-logo img {
 
 .info {
   display: flex;
+  margin: 50px;
 }
 
 .info img {
   width: 50%;
+  object-fit: contain;
 }
 
 .img-content h1 {
